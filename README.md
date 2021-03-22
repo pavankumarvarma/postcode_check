@@ -32,3 +32,8 @@ If the administrator wants to add unknown available postal codes to the list use
     %w[SH241AA SH241AB]
   end
 ```
+
+core logic of this application is resides in the service forlder
+```
+\app\services\postcode_service.rb
+```
