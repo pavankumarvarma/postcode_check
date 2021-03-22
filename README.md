@@ -2,16 +2,22 @@
 
 This application will be helpful in validating the post codes.
 
-###Vesrions used
+### Vesrions used
 ```
 Rails v6.1.3
 
 Ruby v2.6.6
 ```
-To run the rails application run
+#### To run the rails application:
 ```
 $ bundle install
+
+$ yarn add bootstrap jquery popper.js
+
+$ rails webpacker:install
+
 $ rails spec // run the tests
+
 $ rails server(s)
 ```
 
