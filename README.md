@@ -11,7 +11,7 @@ Ruby v2.6.6
 To run the rails application run
 ```
 $ bundle install
-$ rails spec
+$ rails spec // run the tests
 $ rails server(s)
 ```
 
